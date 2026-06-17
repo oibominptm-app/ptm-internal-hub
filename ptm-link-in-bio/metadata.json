@@ -1,0 +1,6 @@
+{
+  "name": "PTM Link in Bio",
+  "description": "หน้ารวมลิงก์ของ PTM Agriculture พร้อมระบบแอดมิน ปุ๋ย ยา เมล็ดพันธุ์ และงานบริการทางการเกษตร",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
