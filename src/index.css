@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Noto Sans Thai", "Noto Sans", system-ui, -apple-system, sans-serif;
+  --font-serif: "Noto Serif Thai", "Noto Serif", Georgia, Cambria, "Times New Roman", Times, serif;
+}
